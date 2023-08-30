@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/StartPage.unity
+    guid: 8eac68bac0007c64e9ccec076b6030c5
+  - enabled: 1
+    path: Assets/Scenes/ArtMuseum.unity
+    guid: 415692e28a755e04eb78a6d3bbcf91ec
+  - enabled: 1
+    path: Assets/Scenes/3DDrawingSpace.unity
+    guid: 20351b17569e4ef47a7ccf452014608b
+  - enabled: 0
+    path: Assets/Plugins/CW/CW/PaintIn3D/Examples/InGame/VR Pen.unity
+    guid: 3c1ecfc441f33d74b8780cba879a9d84
+  - enabled: 1
+    path: Assets/Scenes/2DDrawingSpace.unity
+    guid: d336e91e5dfb6cb4590c9d68d322e526
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2c18692d22941d747a67aa00c4ee3848, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: c89f890beea575c4fb33011805058d99, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e31c8d2eb2cfc0042948625091c4506f, type: 2}
